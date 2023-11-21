@@ -1,5 +1,5 @@
 * {
-    background-color: azure;
+    background-color: gold;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -19,7 +19,6 @@ h1 {
     padding: 8pt;
     border-radius: 15pt;
     background: rgb(31, 35, 31);
-    box-shadow: 0 5px 95px 66px rgba(255, 112, 243, 0.6);
 }
 
 input {
